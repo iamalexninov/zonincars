@@ -1,0 +1,1 @@
+// Rewrite the project using MySQL as database against with Prisma.
